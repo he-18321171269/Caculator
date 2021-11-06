@@ -19,6 +19,8 @@
     CalculatorView * calView = [[CalculatorView alloc]initWithFrame:self.view.bounds];
     [self.view addSubview:calView];
     NSLog(@"test1");
+    NSLog(@"test2");
+    
 }
 
 
